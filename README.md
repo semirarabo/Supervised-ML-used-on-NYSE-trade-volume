@@ -28,4 +28,4 @@ The dataset covers the period from 2011 to April 2023, with all data aggregated 
    * **Linear Regression** as a baseline.
    * **Recurrent Neural Networks (RNNs)** for sequential market behavior.
    * **Long Short-Term Memory (LSTM) networks** for improved time-series forecasting.
-**Model Evaluation & Optimization**
+* **Model Evaluation & Optimization**
