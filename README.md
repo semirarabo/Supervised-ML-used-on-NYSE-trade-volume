@@ -21,10 +21,10 @@ The dataset covers the period from 2011 to April 2023, with all data aggregated 
 
 ## Methodology
 
-**Data Preprocessing and Feature Engineering**
-**Exploratory Data Analysis:** Visualizing trends, checking stationarity, and analyzing correlations between financial indicators and market activity.
-**Clustering for Market Patterns**: Identifying typical trading months to enhance model insights.
-**Supervised Learning Models:**
+* **Data Preprocessing and Feature Engineering**
+* **Exploratory Data Analysis:** Visualizing trends, checking stationarity, and analyzing correlations between financial indicators and market activity.
+* **Clustering for Market Patterns**: Identifying typical trading months to enhance model insights.
+* **Supervised Learning Models:**
    * **Linear Regression** as a baseline.
    * **Recurrent Neural Networks (RNNs)** for sequential market behavior.
    * **Long Short-Term Memory (LSTM) networks** for improved time-series forecasting.
