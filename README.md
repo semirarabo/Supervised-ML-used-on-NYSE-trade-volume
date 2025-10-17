@@ -1,4 +1,4 @@
-This repository contains a Jupyter Notebook developed as part of the TMDL (Turing Machine & Deep Learning) course at Erasmus University during the 2022/2023 academic year. The project was completed in a group of 3 students, focusing on analyzing New York Stock Exchange (NYSE) trading data.
+This repository contains a Jupyter Notebook developed in a group of 3 students at Erasmus University, focusing on analyzing New York Stock Exchange (NYSE) trading data.
 
 ## Project Description
 
